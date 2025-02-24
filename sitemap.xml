@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liuguang704.github.io/2025/02/24/%E9%9A%8F%E7%AC%9411/</loc>
+    
+    <lastmod>2025-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liuguang704.github.io/2025/02/23/%E9%9A%8F%E7%AC%9410/</loc>
     
-    <lastmod>2025-02-23</lastmod>
+    <lastmod>2025-02-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +112,7 @@
 
   <url>
     <loc>https://liuguang704.github.io/</loc>
-    <lastmod>2025-02-23</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,14 +120,14 @@
   
   <url>
     <loc>https://liuguang704.github.io/tags/%E6%83%85%E6%84%9F/</loc>
-    <lastmod>2025-02-23</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuguang704.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-02-23</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
